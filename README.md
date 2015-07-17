@@ -1,4 +1,4 @@
-== Rails Test
+# Rails Test
 
 This is a simple Ruby on Rails test.
 
